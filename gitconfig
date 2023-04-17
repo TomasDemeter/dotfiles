@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 22tomdemeter22@gmail.com
+	name = Tomas Demeter
